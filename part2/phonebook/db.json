@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "mariam",
+      "id": 1,
+      "phone": "555121212"
+    },
+    {
+      "name": "anlii c",
+      "id": 2,
+      "phone": "45454545"
+    },
+    {
+      "name": "goHa hhg",
+      "phone": "01212145",
+      "id": 5
+    },
+    {
+      "name": "mati",
+      "phone": "45454548",
+      "id": 6
+    },
+    {
+      "name": "hello",
+      "phone": "0154527",
+      "id": 7
+    },
+    {
+      "name": "",
+      "number": "",
+      "id": 11
+    }
+  ]
+}
